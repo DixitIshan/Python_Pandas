@@ -35,3 +35,9 @@ print(df.shape)
 #SETTING THE INDEX OF THE DATAFRAME
 df.set_index('Day', inplace = True)
 print(df)
+
+
+#RESETTING THE INDEX BACK TO DEFAULT
+df.index.name = 'Day'
+df.reset_index(inplace = True)
+print(df)
