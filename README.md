@@ -10,6 +10,7 @@ For the video based tutorials you can visit:
 For more practice and a handful guide you can visit:
 1) http://unsupervisedlearning.co.uk/2017/11/06/python-data-analysis-pandas/
 2) http://unsupervisedlearning.co.uk/2017/11/07/pandas-exercises-solutions/
+3) https://medium.com/@ishan.cdixit/lets-learn-panda-39fc11c7407e
 
 For the Documentations you can visit: https://pandas.pydata.org/pandas-docs/stable/
 
