@@ -20,7 +20,7 @@ df.drop(['Day', 'Visitors'], axis = 1, inplace = True)
 
 #ACCESSING SPECFIC COLUMNS IN 2 DIFFERENT WAYS
 print(df.Bounce_Rate)
-print('Bounce_Rate')
+print(df['Bounce_Rate'])
 
 
 #RENAMING SPECIFIC COLUMNS
